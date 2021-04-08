@@ -1,0 +1,25 @@
+ 
+Fofa 搜索  幻阵可找到部分公开在公网端口
+ 
+1、进入幻阵安装系统
+ 
+
+刷新并抓包
+ 
+Drop掉 /huanzhen/have_installed?
+ 
+Drop掉 /huanzhen/mode?timestamp
+ 
+Drop 掉 /huanzhen/version_info
+ 
+进入页面
+ 
+点击调试工具并放包
+ 
+可见可执行ping命令
+ 
+ 
+ 
+ 
+点击一键诊断
+ 
